@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'MyFont';
+  src: url('./HelveticaNeue-Light.otf') format('otf');
+  font-weight: 600;
+  font-style: normal;
+}
+
+
+
+.hello {
+  color: red;
+  background: url('./icon.png');
+  font-family: 'MyFont';
+}
+
+body {
+  background-color: bisque;
+}
